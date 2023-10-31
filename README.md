@@ -1,5 +1,28 @@
-# Algoritmos de Aprendizaje Supervisado.
-Tasca_M6_T01
+# Supervised Learning Algorithms.
+
+- Exercise 1
+Create at least two different regression models to try to predict the best possible housing prices (MEDV) from the attached file.
+
+
+
+- Exercise 2
+Compare them on the basis of the MSE and R2.
+
+
+
+- Exercise 3
+Train them using the different parameters they admit to try to improve their prediction.
+
+
+
+- Exercise 4
+Compare their performance using the trait/test approach or using all the data (internal validation).
+
+
+
+- Exercise 5
+Do not use the number of rooms variable (RM) when making predictions.
+
 - Exercici 1
 Crea almenys dos models de regressió diferents per intentar predir el millor possible el preu de les vivendes (MEDV) de l'arxiu adjunt.
 
